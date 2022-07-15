@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "pkief.material-icon-theme",
+        "dracula-theme.theme-dracula",
+        "ecmel.vscode-html-css",
+        "ritwickdey.liveserver",
+        "rangav.vscode-thunder-client",
+        "firsttris.vscode-jest-runner",
+        "ms-vscode.powershell"
+    ]
+}
