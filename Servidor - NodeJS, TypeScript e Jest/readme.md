@@ -1,6 +1,7 @@
 # Servidor criado na aula: Fundamentos de NodeJS e Jest
-Também foi utilizado TypeScript e padrão AAA para testes automatizados.
-Abaixo segue notas da aula.
+- Também foi utilizado TypeScript e padrão AAA para testes automatizados.
+- Abaixo segue notas da aula.
+- Obrigado DIO!
 
 
 ## Comandos
