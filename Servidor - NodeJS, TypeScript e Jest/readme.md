@@ -3,6 +3,11 @@
 - Abaixo segue anotações da aula.
 - Obrigado Digital Inovation One!
 
+# Após clonar o repositório (Executar comandos dentro do repositório clonado)
+- Instalar yarn (npm install --global yarn)
+- Instalar dependências (yarn install)
+- Iniciar o servidor (yarn dev)
+
 
 ## Comandos
 - npm init --y - Cria o package.json e inicializa a aplicação node com os atributos default graças ao --y;
