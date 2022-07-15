@@ -1,46 +1,35 @@
-# Comandos
-## npm init --y
-Cria o package.json e inicializa a aplicação node com os atributos default graças ao --y;
+# Servidor criado na aula: Fundamentos de NodeJS e Jest, utilizado também TypeScript e padrão AAA para testes automatizados.
 
-## yarn install
-Instala todas as dependências listadas em package.json;
 
-## yarn add -D @types/express
-Adiciona dependência @types/express conforme solicitado no erro ao renomear o arquivo index.js para index.ts;
+## Comandos
+- npm init --y - Cria o package.json e inicializa a aplicação node com os atributos default graças ao --y;
 
-# Dependências
-## npm install --global yarn
-Instala o yarn que é um gerenciador de pacotes;
+- yarn install - Instala todas as dependências listadas em package.json;
 
-## yarn add nodemon
-Reinicia o servidor a cada alteração salva no código;
+- yarn add -D @types/express - Adiciona dependência @types/express conforme solicitado no erro ao renomear o arquivo index.js para index.ts;
 
-## yarn add express
-Framework para facilitar a criação de rotas e comunicação do servidor;
+## Dependências
+- npm install --global yarn - Instala o yarn que é um gerenciador de pacotes;
 
-## yarn add -D typescript
-Instala typscript como dependência de desenvolvimento;
+- yarn add nodemon - Reinicia o servidor a cada alteração salva no código;
 
-## yarn tsc index.ts
-Executa o arquivo TypeScript e cria um arquivo JavaScript;
+- yarn add express - Framework para facilitar a criação de rotas e comunicação do servidor;
 
-## yarn add -D ts-node-dev
-Ao executar o arquivo Typescript, um arquivo javascript é criado esse módulo automatiza isso;
+- yarn add -D typescript - Instala typscript como dependência de desenvolvimento;
 
-## yarn ts-node-dev index.ts
-Comando que automatiza: execução arquivo index.ts - criação arquivo index.js - execução arquivo index.js;
+- yarn tsc index.ts - Executa o arquivo TypeScript e cria um arquivo JavaScript;
 
-## npx tsc --init
-Cria o tsconfig.json e inicializa o Typescript na aplicação;
+- yarn add -D ts-node-dev - Ao executar o arquivo Typescript, um arquivo javascript é criado esse módulo automatiza isso;
 
-## yarn add -D jest
-Instala jest como dependência de desenvolvimento;
+- yarn ts-node-dev index.ts - Comando que automatiza: execução arquivo index.ts - criação arquivo index.js - execução arquivo index.js;
 
-## yarn add -D @types/jest
-Adiciona os tipos (TypeScript) do jest;
+- npx tsc --init - Cria o tsconfig.json e inicializa o Typescript na aplicação;
 
-## yarn add -D ts-jest
-Instala lib que exibe as opções Run | Debug no código;
+- yarn add -D jest - Instala jest como dependência de desenvolvimento;
+
+- yarn add -D @types/jest - Adiciona os tipos (TypeScript) do jest;
+
+- yarn add -D ts-jest - Instala lib que exibe as opções Run | Debug no código;
 
 ## npx jest --init
 Inicia o jest e faz um questionario para criar o arquivo jest.config.ts;
